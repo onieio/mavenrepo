@@ -34,7 +34,7 @@
   </dependency>
   
 <dependency>
-  <groupId>bike.bounce</groupId>
+  <groupId>bike.bounce.artifactory</groupId>
   <artifactId>artifactory</artifactId>
   <version>3.0-20190402.195402-1</version>
 </dependency>
