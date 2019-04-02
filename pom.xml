@@ -32,6 +32,11 @@
     <version>3.0.1</version>
     <scope>provided</scope>
 </dependency>
+  <dependency>
+  <groupId>com.jdevs</groupId>
+  <artifactId>studentapp</artifactId>
+  <version>3.0-20190402.194313-1</version>
+</dependency>
 </dependencies>
   <distributionManagement>
         <snapshotRepository>
