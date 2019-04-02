@@ -31,11 +31,10 @@
     <artifactId>javax.servlet-api</artifactId>
     <version>3.0.1</version>
     <scope>provided</scope>
-</dependency>
-  <dependency>
-  <groupId>com.jdevs</groupId>
-  <artifactId>studentapp</artifactId>
-  <version>3.0-20190402.194313-1</version>
+<dependency>
+  <groupId>bike.bounce</groupId>
+  <artifactId>artifactory</artifactId>
+  <version>3.0-20190402.195402-1</version>
 </dependency>
 </dependencies>
     <distributionManagement>
