@@ -29,12 +29,12 @@
   
   <distributionManagement>
         <snapshotRepository>
-            <id>snapshots</id>
+            <id>nexus-snapshots</id>
             <name>snapshots</name>
             <url>http://artifactory.bounce.bike:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
         <repository>
-            <id>releases</id>
+            <id>nexus-releases</id>
             <name>Releases</name>
             <url>http://artifactory.bounce.bike:8081/repository/maven-releases/</url>
         </repository>
