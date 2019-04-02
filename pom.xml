@@ -44,10 +44,5 @@
   		<artifactId>javax.servlet-api</artifactId>
   		<version>3.0.1</version>
   	</dependency>
-<dependency>
-  <groupId>com.wakaleo.gameoflife</groupId>
-  <artifactId>gameoflife-web</artifactId>
-  <version>1.0-20190329.065902-9</version>
-</dependency>
   </dependencies>
 </project>
