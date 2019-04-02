@@ -29,12 +29,12 @@
         <repository>
             <id>releases</id>
             <name>Releases</name>
-            <url>http://13.234.122.18:8081/repository/hosted-solution-RR/</url>
+            <url>http://13.234.122.18:8081/repository/maven-proxy-test/</url>
         </repository>
         <snapshotRepository>
             <id>snapshots</id>
             <name>snapshots</name>
-            <url>http://13.234.122.18:8081/repository/hosted-solution-RR/</url>
+            <url>http://13.234.122.18:8081/repository/maven-proxy-test/</url>
         </snapshotRepository>
 
     </distributionManagement>
