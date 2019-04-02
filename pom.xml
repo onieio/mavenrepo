@@ -29,12 +29,12 @@
         <repository>
             <id>releases</id>
             <name>Releases</name>
-            <url>http://13.234.122.18:8081/repository/nuget-hosted/</url>
+            <url>http://13.234.122.18:8081/repository/Proxy-Soluction-RR/</url>
         </repository>
         <snapshotRepository>
             <id>snapshots</id>
             <name>snapshots</name>
-            <url>http://13.234.122.18:8081/repository/nuget-hosted/</url>
+            <url>http://13.234.122.18:8081/repository/Proxy-Soluction-RR/</url>
         </snapshotRepository>
 
     </distributionManagement>
